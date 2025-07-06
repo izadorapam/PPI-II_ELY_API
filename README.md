@@ -1,23 +1,14 @@
-# 💬 API DE FRASES MOTIVACIONAIS
+## 📌 Descrição
 
-Esta é uma API simples que retorna frases motivacionais engraçadas e inspiradoras para uso em sites, blogs ou projetos de estudo.
+O site ZenQuotes oferece frases e citações inspiradoras, disponibilizando citações aleatórias com o texto da frase e o nome do autor.
+Não exige cadastro para uso básico, facilitando o acesso rápido, e é ideal para quem quer exibir mensagens motivacionais em sites e aplicativos.
+
 
 ---
 
 ## 🌐 Link da API
 
-> [https://seu-nome-de-usuario.github.io/seu-repositorio/](https://github.com/izadorapam/PPI-II_ELY_API)
-
----
-
-## 📌 Descrição
-
-Essa API foi construída com **Node.js** e **Express**. Ao acessar a rota `/mensagem`, o usuário recebe uma **frase aleatória** em formato **JSON**.
-
-- **Linguagem:** JavaScript  
-- **Framework:** Express.js  
-- **Método:** `GET`  
-- **Retorno:** JSON  
+> (https://zenquotes.io/api/random)
 
 ---
 
@@ -26,4 +17,4 @@ Essa API foi construída com **Node.js** e **Express**. Ao acessar a rota `/mens
 ### ▶️ Requisição
 
 ```http
-GET http://localhost:3001/mensagem
+GET https://zenquotes.io/api/random
