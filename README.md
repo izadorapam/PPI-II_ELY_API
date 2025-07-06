@@ -6,9 +6,7 @@ Esta é uma API simples que retorna frases motivacionais engraçadas e inspirado
 
 ## 🌐 Link da API
 
-> https://seu-nome-de-usuario.github.io/seu-repositorio/
-
-(SUBSTITUA pelo link real, caso esteja usando o GitHub Pages ou outra hospedagem.)
+> [https://seu-nome-de-usuario.github.io/seu-repositorio/](https://github.com/izadorapam/PPI-II_ELY_API)
 
 ---
 
