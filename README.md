@@ -8,13 +8,14 @@ Não exige cadastro para uso básico, facilitando o acesso rápido, e é ideal p
 
 ## 🌐 Link da API
 
-> (https://zenquotes.io/api/random)
+> (https://api.adviceslip.com/advice))
 
 ---
 
 ## 🚀 Demonstração
+CURL (https://api.adviceslip.com/advice)
 
 ### ▶️ Requisição
 
 ```http
-GET https://zenquotes.io/api/random
+GET https://api.adviceslip.com/advice
