@@ -25,4 +25,4 @@ Essa API foi construída com Node.js e Express. Ao acessar a rota `/frases`, o u
 ### ▶️ Requisição
 
 ```http
-GET /frases
+GET 'http://localhost:3001/mensagem'
