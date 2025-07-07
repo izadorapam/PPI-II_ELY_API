@@ -15,7 +15,11 @@ Além disso, permite personalizar categorias e idiomas das piadas, tornando a ex
 ## 🚀 Demonstração
 CURL (https://v2.jokeapi.dev/joke/Any)
 
+---
+
 ### ▶️ Requisição
+
+---
 
 ```http
 GET https://v2.jokeapi.dev/joke/Any
