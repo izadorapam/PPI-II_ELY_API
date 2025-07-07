@@ -8,12 +8,12 @@ Além disso, permite personalizar categorias e idiomas das piadas, tornando a ex
 
 ## 🌐 Link da API
 
-> (https://api.adviceslip.com/advice))
+> (https://v2.jokeapi.dev/joke/Any)
 
 ---
 
 ## 🚀 Demonstração
-CURL (https://v2.jokeapi.dev/joke/Any))
+CURL (https://v2.jokeapi.dev/joke/Any)
 
 ### ▶️ Requisição
 
