@@ -1,8 +1,8 @@
 ## 📌 Descrição
 
-O site ZenQuotes oferece frases e citações inspiradoras, disponibilizando citações aleatórias com o texto da frase e o nome do autor.
-Não exige cadastro para uso básico, facilitando o acesso rápido, e é ideal para quem quer exibir mensagens motivacionais em sites e aplicativos.
-
+O site JokeAPI oferece piadas aleatórias em diversos formatos, como piadas de uma linha ou em duas partes.
+É ideal para quem deseja exibir conteúdo humorístico em sites, blogs ou aplicativos interativos.
+Além disso, permite personalizar categorias e idiomas das piadas, tornando a experiência mais divertida.
 
 ---
 
@@ -13,9 +13,9 @@ Não exige cadastro para uso básico, facilitando o acesso rápido, e é ideal p
 ---
 
 ## 🚀 Demonstração
-CURL (https://api.adviceslip.com/advice)
+CURL (https://v2.jokeapi.dev/joke/Any))
 
 ### ▶️ Requisição
 
 ```http
-GET https://api.adviceslip.com/advice
+GET https://v2.jokeapi.dev/joke/Any
